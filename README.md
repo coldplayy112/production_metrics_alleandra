@@ -1,4 +1,4 @@
-**# Data Pipeline Project (Optamization of mining operations using production data)**
+**# Data Pipeline Project (Optamization of mining operations using production data + Forecasting for total production ouput)**
 
 **### This project contains:**
 - Data pipeline design
